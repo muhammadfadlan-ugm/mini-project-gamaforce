@@ -1,0 +1,9 @@
+mp_env/
+venv/
+runs/
+gambar/
+*.avi
+*.pt
+*.onnx
+__pycache__/
+*.pyc
